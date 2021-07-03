@@ -1,0 +1,12 @@
+h1 {
+  color: aqua;
+}
+h3 {
+  display: inline;
+  color: black;
+}
+p {
+  display: inline;
+  background-color: #b6b6b6;
+  color: tomato;
+}
